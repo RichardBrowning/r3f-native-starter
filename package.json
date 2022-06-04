@@ -9,16 +9,16 @@
     "eject": "expo eject"
   },
   "devDependencies": {
-    "@babel/core": "^7.17.2",
-    "expo-cli": "^5.1.2"
+    "@babel/core": "^7.18.2",
+    "expo-cli": "^5.4.8"
   },
   "dependencies": {
-    "@react-three/drei": "^8.0.0",
-    "@react-three/fiber": "^8.0.0-beta.0",
-    "expo": "^44.0.6",
-    "expo-gl": "~11.1.1",
-    "react": "^18.0.0-rc.0",
-    "react-native": "0.64.3",
-    "three": "0.133.1"
+    "@react-three/drei": "^9.11.3",
+    "@react-three/fiber": "^8.0.22",
+    "expo": "^45.0.4",
+    "expo-gl": "~11.3.0",
+    "react": "^18.1.0",
+    "react-native": "0.68.2",
+    "three": "0.141.0"
   }
 }
